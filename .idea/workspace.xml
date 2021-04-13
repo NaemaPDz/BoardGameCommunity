@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6124327-732a-4e4f-9111-71e3df2c6f90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="4374c4f3-9533-4681-801d-175d4ce3f51c" />
+  <component name="ProjectId" id="1nq2sKyHTiCDQfBkVBJNpHFY9tR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\NaemaPDz\Works\Development\Python\ITE-428\BoardGameCommunity\fonts" />
+      <recent name="E:\NaemaPDz\Works\Development\Python\ITE-428\BoardGameCommunity\UISource" />
+      <recent name="E:\NaemaPDz\Works\Development\Python\ITE-428\BoardGameCommunity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\NaemaPDz\Works\Development\Python\ITE-428\BoardGameCommunity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Login">
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BoardGameCommunity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="User_PartyList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BoardGameCommunity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\NaemaPDz\Works\Development\Python\ITE-428\BoardGameCommunity\User_PartyList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BoardGameCommunity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BoardGameCommunity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BoardGameCommunity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Login" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.User_PartyList" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6124327-732a-4e4f-9111-71e3df2c6f90" name="Default Changelist" comment="" />
+      <created>1612103505852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612103505852</updated>
+      <workItem from="1612103531496" duration="85000" />
+      <workItem from="1612422108368" duration="3673000" />
+      <workItem from="1612672063931" duration="15025000" />
+      <workItem from="1612715501289" duration="1595000" />
+      <workItem from="1612753034310" duration="2944000" />
+      <workItem from="1612772653238" duration="187000" />
+      <workItem from="1612943502767" duration="5970000" />
+      <workItem from="1613017016383" duration="16641000" />
+      <workItem from="1613201207283" duration="5121000" />
+      <workItem from="1613230035590" duration="223000" />
+      <workItem from="1613283705498" duration="10225000" />
+      <workItem from="1613310096316" duration="5149000" />
+      <workItem from="1613362477869" duration="123000" />
+      <workItem from="1613810005923" duration="5426000" />
+      <workItem from="1613966882366" duration="578000" />
+      <workItem from="1614409908325" duration="6000" />
+      <workItem from="1614486631773" duration="730000" />
+      <workItem from="1614662313771" duration="9770000" />
+      <workItem from="1614752178583" duration="11479000" />
+      <workItem from="1615181541149" duration="5556000" />
+      <workItem from="1615269029147" duration="9851000" />
+      <workItem from="1615347994649" duration="3398000" />
+      <workItem from="1615358132887" duration="832000" />
+      <workItem from="1615359208625" duration="364000" />
+      <workItem from="1615366076716" duration="2528000" />
+      <workItem from="1615376618830" duration="3543000" />
+      <workItem from="1615380207310" duration="6053000" />
+      <workItem from="1615387307108" duration="712000" />
+      <workItem from="1615441378006" duration="3121000" />
+      <workItem from="1615464094882" duration="2613000" />
+      <workItem from="1615559629850" duration="1861000" />
+      <workItem from="1615565085018" duration="15000" />
+      <workItem from="1615634925943" duration="6721000" />
+      <workItem from="1615644198398" duration="734000" />
+      <workItem from="1615719923594" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="256" key="#Notifications" timestamp="1612689113346">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="508" y="256" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1612689113346" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612103604958">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1612103604958" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1613362560660">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1613362560660" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1615643822925">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1615643822925" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1615643822925">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1615643822925" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1615643822924">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1615643822924" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1615643822925">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1615643822925" />
+    <state x="321" y="83" key="SettingsEditor" timestamp="1612689130226">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="321" y="83" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1612689130226" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1615387881116">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615387881116" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$Login.coverage" NAME="Login Coverage Results" MODIFIED="1615356828757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$User_AllPartyList.coverage" NAME="User_AllPartyList Coverage Results" MODIFIED="1613812335362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$RegisterMenu.coverage" NAME="RegisterMenu Coverage Results" MODIFIED="1612426024168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$New_Player.coverage" NAME="New_Player Coverage Results" MODIFIED="1612690163089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1613311764297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$User_CreateParty.coverage" NAME="User_CreateParty Coverage Results" MODIFIED="1612950323951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1613294530113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$test.coverage" NAME="test Coverage Results" MODIFIED="1613812015620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Login_py$main.coverage" NAME="main Coverage Results" MODIFIED="1615637039462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$New_ShopOwner.coverage" NAME="New_ShopOwner Coverage Results" MODIFIED="1612690288348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Login_py$Login.coverage" NAME="Login Coverage Results" MODIFIED="1615641581587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$main.coverage" NAME="main Coverage Results" MODIFIED="1612688593516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BoardGameCommunity$ApplicationManagement.coverage" NAME="ApplicationManagement Coverage Results" MODIFIED="1612687001953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

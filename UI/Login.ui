@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>470</width>
+    <height>710</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>ZCOOL QingKe HuangYou</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Board Game Community</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <selectedon>../UISource/Icon.png</selectedon>
+   </iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.353234 rgba(235, 255, 235, 255), stop:1 rgba(215, 215, 255, 255));</string>
+  </property>
+  <widget class="QLineEdit" name="ltxt_email">
+   <property name="geometry">
+    <rect>
+     <x>42</x>
+     <y>361</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Bai Jamjuree&quot;;
+border: 0px;
+border-bottom: 2px solid rgb(0, 154, 49);
+background-color: rgba(255, 255, 255, 0)</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="ltxt_password">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>450</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Bai Jamjuree&quot;;
+border: 0px;
+border-bottom: 2px solid rgb(85, 85, 255);
+background-color: rgba(255, 255, 255, 0)</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>330</y>
+     <width>211</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>ZCOOL QingKe HuangYou</family>
+     <pointsize>12</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Email</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>420</y>
+     <width>211</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>ZCOOL QingKe HuangYou</family>
+     <pointsize>12</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(36, 36, 111);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Password</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>250</y>
+     <width>391</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);
+font: 20pt &quot;ZCOOL QingKe HuangYou&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Board Game Community</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_login">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>537</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:  qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.353234 rgba(0, 154, 49, 255), stop:1 rgba(85, 85, 255, 255));
+color: rgb(255, 255, 255);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;
+border-radius: 10px;
+border: 2px solid qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.353234 rgba(0, 154, 49, 255), stop:1 rgba(85, 85, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string>Login</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>30</y>
+     <width>191</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>ZCOOL QingKe HuangYou</family>
+     <pointsize>48</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgba(91, 91, 91, 120);
+background-color: rgba(255, 255, 255, 0);
+font: 48pt &quot;ZCOOL QingKe HuangYou&quot;;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>../UISource/Icon.png</pixmap>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_register">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>590</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;
+color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.353234 rgba(0, 154, 49, 255), stop:1 rgba(85, 85, 255, 255));
+border-radius: 10px;
+border: 2px solid qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.353234 rgba(0, 154, 49, 255), stop:1 rgba(85, 85, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string>Register</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

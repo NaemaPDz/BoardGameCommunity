@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>470</width>
+    <height>710</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>ZCOOL QingKe HuangYou</family>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Board Game Community</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(235, 255, 235);</string>
+  </property>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>90</y>
+     <width>331</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>ZCOOL QingKe HuangYou</family>
+     <pointsize>20</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);
+font: 20pt &quot;ZCOOL QingKe HuangYou&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Shop Activity</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tbl_activitiesList">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>250</y>
+     <width>431</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Bai Jamjuree&quot;;
+background-color: rgb(255, 255, 255);</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_findParty">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>20</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;
+color: rgb(0, 154, 49);
+border-radius: 10px;
+border: 2px solid rgb(0, 154, 49);</string>
+   </property>
+   <property name="text">
+    <string>Find Party</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbl_username">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Bai Jamjuree</family>
+     <pointsize>14</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);
+font: 14pt &quot;Bai Jamjuree&quot;;</string>
+   </property>
+   <property name="text">
+    <string>**USERNAME**</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_logOut">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>90</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:  rgba(0, 0, 0, 0);
+color: rgb(200, 9, 19);
+font: 10pt &quot;ZCOOL QingKe HuangYou&quot;;
+border-radius: 10px;
+border: 2px solid rgb(200, 9, 19);</string>
+   </property>
+   <property name="text">
+    <string>Log Out</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_viewActivity">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>650</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 154, 49);
+color: rgb(255, 255, 255);
+font: 12pt &quot;ZCOOL QingKe HuangYou&quot;;
+border-radius: 10px;
+border: 2px solid rgb(0, 154, 49);</string>
+   </property>
+   <property name="text">
+    <string>View Selected Activity</string>
+   </property>
+  </widget>
+  <widget class="Line" name="line">
+   <property name="geometry">
+    <rect>
+     <x>17</x>
+     <y>120</y>
+     <width>431</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 100, 76);
+background-color: rgba(255, 255, 255, 0);</string>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Plain</enum>
+   </property>
+   <property name="lineWidth">
+    <number>4</number>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="ltxt_searchBar">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>150</y>
+     <width>431</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 12pt &quot;Bai Jamjuree&quot;;
+border: 2px solid rgb(0, 154, 49);
+background-color: rgba(255, 255, 255, 0);
+border-radius: 10px ;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbl_fullname">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>60</y>
+     <width>291</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Bai Jamjuree</family>
+     <pointsize>10</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);
+font: 10pt &quot;Bai Jamjuree&quot;;</string>
+   </property>
+   <property name="text">
+    <string>**FULL NAME**</string>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="rbtn_allActivity">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>210</y>
+     <width>91</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;ZCOOL QingKe HuangYou&quot;;
+background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);</string>
+   </property>
+   <property name="text">
+    <string>All Activity</string>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="rbtn_newActivity">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>210</y>
+     <width>131</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;ZCOOL QingKe HuangYou&quot;;
+background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);</string>
+   </property>
+   <property name="text">
+    <string>Not Join Activity</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="rbtn_joinedActivity">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>210</y>
+     <width>121</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;ZCOOL QingKe HuangYou&quot;;
+background-color: rgba(255, 255, 255, 0);
+color: rgb(0, 100, 76);</string>
+   </property>
+   <property name="text">
+    <string>Joined Activity</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
